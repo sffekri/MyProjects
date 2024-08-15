@@ -4,7 +4,7 @@ Welcome to my projects repository! Here you will find a collection of projects I
 
 ## Project List
 
-### [Project 1: ](./Project1)
+### [Project 1: ](./OnlineBookstoreManagementSystem)
 - **Description:** 
 - **Technologies:** 
 - **Status:** 
