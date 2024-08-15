@@ -9,7 +9,7 @@ Welcome to my projects repository! Here you will find a collection of projects I
 - **Technologies:** 
 - **Status:** 
 
-### [Project 2: ](./Project2)
+### [Project 2: ](./SubscriptionManagementSystem)
 - **Description:** 
 - **Technologies:** 
 - **Status:** 
