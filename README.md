@@ -4,28 +4,24 @@ Welcome to my projects repository! Here you will find a collection of projects I
 
 ## Project List
 
-### [Project 1: ](./OnlineBookstoreManagementSystem)
-- **Description:** 
-- **Technologies:** 
-- **Status:** 
+### [Online Bookstore Management System](./OnlineBookstoreManagementSystem)
+- **Description:** A system for managing bookstore inventory and providing an online browsing interface for customers. Includes secure authentication and role-based access.
+- **Technologies:** Spring Boot, Spring MVC, Spring Security, ThymeLeaf, CSS, Bootstrap, MySQL/PostgreSQL
+- **Status:** Completed
 
-### [Project 2: ](./SubscriptionManagementSystem)
-- **Description:** 
-- **Technologies:** 
-- **Status:** 
+### [Subscription Management System](./SubscriptionManagementSystem)
+- **Description:** A system for handling user subscriptions for a blog site, including registration, CRUD operations, and subscription management.
+- **Technologies:** PHP, MySQL, Composer, Carbon
+- **Status:** Completed
 
-### [Project 3: ](./Project3)
-- **Description:** 
-- **Technologies:** 
-- **Status:** 
+### [Truck Load Calculator](./TruckloadCalculatorApp)
+- **Description:** A single-page application for calculating and visualizing truck load capacities, with dynamic percentage thresholds fetched from an API.
+- **Technologies:** React, TypeScript, Fluent UI, styled-components, Power Platform, database integration
+- **Status:** Ongoing
 
 ...
 
-## How to Use This Repository
-
-- Clone this repository: `git clone https://github.com/your-username/your-repository-name.git`
-- Navigate to the specific project folder and follow the instructions in the README file of that project.
 
 ## Contact
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/fatemeh-fekri-0472a0161/) or via email at sffekri@gmail.com.
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/fatemeh-fekri-0472a0161/) or via email at sffekri@gmail.com
